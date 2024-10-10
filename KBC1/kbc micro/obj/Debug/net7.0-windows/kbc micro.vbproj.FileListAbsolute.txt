@@ -1,0 +1,87 @@
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\bin\Debug\net7.0-windows\kbc micro.exe
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\bin\Debug\net7.0-windows\kbc micro.deps.json
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\bin\Debug\net7.0-windows\kbc micro.runtimeconfig.json
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\bin\Debug\net7.0-windows\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\bin\Debug\net7.0-windows\kbc micro.pdb
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.AssemblyReference.cache
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form1.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form2.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form3.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Resources.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.GenerateResource.cache
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.AssemblyInfoInputs.cache
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.AssemblyInfo.vb
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.CoreCompileInputs.cache
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\refint\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.pdb
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc micro.genruntimeconfig.cache
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\ref\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form10.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form11.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form4.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form5.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form6.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form7.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form8.resources
+C:\Users\Vyanktesh Koli\source\repos\kbc micro\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form9.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.AssemblyReference.cache
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form1.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form10.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form11.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form2.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form3.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form4.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form5.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form6.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form7.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form8.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form9.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Resources.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.GenerateResource.cache
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.AssemblyInfoInputs.cache
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.AssemblyInfo.vb
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.CoreCompileInputs.cache
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\refint\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.pdb
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.exe
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.deps.json
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.runtimeconfig.json
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.pdb
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.genruntimeconfig.cache
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\ref\kbc micro.dll
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form12.resources
+C:\Users\Vyanktesh Koli\source\repos\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form13.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.exe
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.deps.json
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.runtimeconfig.json
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.dll
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\bin\Debug\net7.0-windows\kbc micro.pdb
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form1.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form10.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form11.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form12.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form13.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form2.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form3.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form4.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form5.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form6.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form7.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form8.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Form9.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc_micro.Resources.resources
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.GenerateResource.cache
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.GeneratedMSBuildEditorConfig.editorconfig
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.AssemblyInfoInputs.cache
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.AssemblyInfo.vb
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.vbproj.CoreCompileInputs.cache
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.dll
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\refint\kbc micro.dll
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.pdb
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\kbc micro.genruntimeconfig.cache
+D:\POLYTECHNIC ALL\Projects\KBC1\kbc micro\obj\Debug\net7.0-windows\ref\kbc micro.dll

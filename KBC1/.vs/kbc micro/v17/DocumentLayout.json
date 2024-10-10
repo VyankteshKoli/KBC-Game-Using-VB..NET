@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form13.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form13.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form13.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form13.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|d:\\polytechnic all\\projects\\kbc1\\kbc micro\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31C9E0AC-E8D9-4978-94C6-727948525238}|kbc micro\\kbc micro.vbproj|solutionrelative:kbc micro\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form6.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form6.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form6.vb",
+              "RelativeToolTip": "kbc micro\\Form6.vb",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv18AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form7.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form7.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form7.vb",
+              "RelativeToolTip": "kbc micro\\Form7.vb",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwFwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form8.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form8.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form8.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form8.vb",
+              "RelativeToolTip": "kbc micro\\Form8.vb",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwFoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form9.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form9.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form9.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form9.vb",
+              "RelativeToolTip": "kbc micro\\Form9.vb",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv1YAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form10.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form10.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form10.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form10.vb",
+              "RelativeToolTip": "kbc micro\\Form10.vb",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form11.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form11.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form11.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form11.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form11.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form11.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form11.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form11.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form11.vb",
+              "RelativeToolTip": "kbc micro\\Form11.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form12.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form12.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form12.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form12.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form12.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form12.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form12.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form12.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form12.vb",
+              "RelativeToolTip": "kbc micro\\Form12.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form13.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form13.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form13.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form13.vb",
+              "RelativeToolTip": "kbc micro\\Form13.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form5.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form5.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form5.vb",
+              "RelativeToolTip": "kbc micro\\Form5.vb",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv18AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form4.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form4.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form4.vb",
+              "RelativeToolTip": "kbc micro\\Form4.vb",
+              "ViewState": "AgIAAFgAAAAAAAAAAADgv2MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form5.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form5.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form5.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form3.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form3.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form3.vb",
+              "RelativeToolTip": "kbc micro\\Form3.vb",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv2wAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form4.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form4.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form4.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form3.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form3.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form3.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.589Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form2.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form2.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form2.vb",
+              "RelativeToolTip": "kbc micro\\Form2.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form1.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form1.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form1.vb",
+              "RelativeToolTip": "kbc micro\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form8.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form8.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form8.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form8.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form8.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form1.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form1.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form1.vb",
+              "RelativeToolTip": "kbc micro\\Form1.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form10.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form10.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form10.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form10.vb",
+              "RelativeToolTip": "kbc micro\\Form10.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form2.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form2.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form2.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form9.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form9.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form9.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form9.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form6.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form6.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form6.vb [Design]",
+              "RelativeToolTip": "kbc micro\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form13.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form13.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form13.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form13.vb",
+              "RelativeToolTip": "kbc micro\\Form13.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form7.vb",
+              "RelativeDocumentMoniker": "kbc micro\\Form7.vb",
+              "ToolTip": "D:\\POLYTECHNIC ALL\\Projects\\KBC1\\kbc micro\\Form7.vb",
+              "RelativeToolTip": "kbc micro\\Form7.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T14:54:15.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
